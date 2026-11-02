@@ -32,13 +32,16 @@ nexus@kali:~$ ./status.sh
 - 🤝 **Looking to collaborate on**: Open-source security projects, CTF challenges, and learning initiatives.
 - 💬 **Ask me about**: Linux basics, Bash scripting, Python, and cybersecurity fundamentals.
 - ⚡ **Fun Fact**: `chmod 777` fixes the error... and opens 777 new backdoors! 💀
-- 📫 **How to reach me**: **[nexus956 on GitHub](https://github.com/nexus956)** • **[Email](mailto:your-email@example.com)**
+- 📫 **How to reach me**: **[nexus66956@gmail.com](mailto:nexus66956@gmail.com)** • **[nexus956 on GitHub](https://github.com/nexus956)**
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="left">
+  <a href="mailto:nexus66956@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/nexus956" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub" />
   </a>
@@ -53,9 +56,6 @@ nexus@kali:~$ ./status.sh
   </a>
   <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
