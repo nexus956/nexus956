@@ -45,17 +45,8 @@ nexus@kali:~$ ./status.sh
   <a href="https://github.com/nexus956" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub" />
   </a>
-  <a href="https://tryhackme.com/p/nexus956" target="_blank">
+  <a href="https://tryhackme.com/p/nexus956?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=865f1f3a5942&utm_source=copy&sharerId=6413cabeb13bdd004b94f1e5" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00FF66" alt="TryHackMe" />
-  </a>
-  <a href="https://app.hackthebox.com/profile/nexus956" target="_blank">
-    <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
