@@ -86,21 +86,6 @@ nexus@kali:~$ ./status.sh
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nexus956&show_icons=true&theme=terminal&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=7EE787" alt="NEXUS's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nexus956&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&currStreakLabel=7EE787&sideNums=00FF66&sideLabels=7EE787" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus956&layout=compact&theme=terminal&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=7EE787" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">
   <sub>⚡ <i>"The quieter you become, the more you are able to hear."</i> — <b>Kali Linux</b> ⚡</sub>
