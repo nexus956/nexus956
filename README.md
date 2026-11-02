@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NEXUS</h1>
-<h3 align="center">🛡️ Cybersecurity Researcher & 🐧 Linux / Red Team Enthusiast from Nepal</h3>
+<h3 align="center">🛡️ Cybersecurity & 🐧 Linux Enthusiast | Interested in Red Teaming</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nexus956&label=SYSTEM%20ACCESS%20COUNT&color=00ff66&style=flat-square" alt="Profile views" />
@@ -11,26 +11,26 @@
 
 ```bash
 nexus@kali:~$ whoami
-> NEXUS — Security Researcher & Red Teamer
+> NEXUS — Cybersecurity & Linux Enthusiast
 
 nexus@kali:~$ cat /etc/motd
 > "The quieter you become, the more you are able to hear." — Kali Linux
 
 nexus@kali:~$ ./status.sh
-[+] Focus    : Penetration Testing | Malware Analysis | Exploit PoCs
-[+] OS       : Kali Linux / Arch Linux / Debian
-[+] Status   : Analyzing vulnerabilities & automating security workflows
+[+] Interests: Cybersecurity | Red Teaming | Linux Systems
+[+] Learning : Penetration Testing, Network Security & Scripting
+[+] Status   : Exploring security tools, labs & hands-on concepts
 ```
 
 ---
 
 ### ⚡ About Me
 
-- 🔭 **I'm currently working on**: Offensive Security tools, Exploit Development & Anti-Bot bypass research.
-- 🌱 **Currently exploring**: Linux Kernel Internals, x86/x64 Reverse Engineering, and Advanced Evasion Techniques.
-- 🎯 **Areas of Interest**: Red Teaming, Web Application Security, Network Pentesting & SIEM.
-- 🤝 **Looking to collaborate on**: Open-source cybersecurity projects, CTF challenges, and security automation.
-- 💬 **Ask me about**: Linux administration, Bash automation, Python scripting, and Network security.
+- 🔭 **I'm currently working on**: Hands-on cybersecurity projects, Python scripts, and security tooling.
+- 🌱 **Currently exploring**: Linux administration, Network Security, and Red Teaming fundamentals.
+- 🎯 **Areas of Interest**: Cybersecurity, Red Teaming, Web Security & Linux environments.
+- 🤝 **Looking to collaborate on**: Open-source security projects, CTF challenges, and learning initiatives.
+- 💬 **Ask me about**: Linux basics, Bash scripting, Python, and cybersecurity fundamentals.
 - ⚡ **Fun Fact**: `chmod 777` fixes the error... and opens 777 new backdoors! 💀
 - 📫 **How to reach me**: **[nexus956 on GitHub](https://github.com/nexus956)** • **[Email](mailto:your-email@example.com)**
 
