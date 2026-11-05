@@ -59,7 +59,7 @@ nexus@kali:~$ ./status.sh
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,go,js,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,bash,js&theme=dark" alt="Languages" />
 </p>
 
 ### 🛡️ Security & Pentesting Tools
