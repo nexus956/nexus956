@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhNN7eM1/giphy.gif" width="380" alt="Cyber Terminal Animation" />
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="380" alt="Cyber Hacking Animation" />
 </p>
 
 ```bash
