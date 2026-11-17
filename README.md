@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td width="32%"><img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="300" alt="cartoon hacker" /></td>
+    <td width="32%"><img src="https://media.giphy.com/media/Cfiid6I8YDKqrCxAaY/giphy.gif" width="300" alt="cartoon hacker" /></td>
     <td width="68%"><img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph" /></td>
   </tr>
 </table>
