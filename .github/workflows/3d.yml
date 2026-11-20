@@ -10,15 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-3d-contrib
     steps:
+      # Check out with the PAT so the push below is credited to nexus956.
+      # Commits pushed via GITHUB_TOKEN never count as contributions.
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.STREAK_PAT }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: push
         run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config user.name "N E X U S"
+          git config user.email "100766705+nexus956@users.noreply.github.com"
           git add profile-3d-contrib || exit 0
           git diff --cached --quiet && exit 0
           git commit -m "chore: refresh 3d contrib"
