@@ -12,7 +12,7 @@ jobs:
     steps:
       # Check out with the PAT so the push below is credited to nexus956.
       # Commits pushed via GITHUB_TOKEN never count as contributions.
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           token: ${{ secrets.STREAK_PAT }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
